@@ -1,0 +1,6 @@
+{
+	"verbose": true,
+	"watch": "./src",
+	"ext": "elm",
+	"exec": "bash -c ./build.sh"
+}
